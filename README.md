@@ -1,14 +1,18 @@
 Health Insurance Premium Prediction 🌡️💼
+
 Predict health insurance premiums with machine learning! This project aims to develop a model that can accurately estimate health insurance premiums based on various factors. this project provides insights into the complexities of health insurance pricing.
 
 
 📊 Dataset
+
 The dataset used for this project includes a diverse set of features such as age, BMI, smoking status, region, and other health-related factors. These features serve as inputs for the machine learning model, striving to capture the intricate relationship between individual characteristics and health insurance premiums.
 
 🚀 Machine Learning Model
+
 The core of the project lies in the machine learning model, which is trained to understand the nonlinear relationships between different health-related features and their corresponding insurance premiums. Various regression algorithms and ensemble techniques may be explored to optimize predictive accuracy.
 
 📈 Evaluation Metrics
+
 The model's performance is evaluated using standard regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared. These metrics provide valuable insights into how well the model generalizes to unseen data and its ability to predict insurance premiums.
 
 
@@ -17,15 +21,19 @@ Predict health insurance premiums with machine learning! This project aims to de
 
 
 📊 Dataset
+
 The dataset used for this project includes a diverse set of features such as age, BMI, smoking status, region, and other health-related factors. These features serve as inputs for the machine learning model, striving to capture the intricate relationship between individual characteristics and health insurance premiums.
 
 🚀 Machine Learning Model
 The core of the project lies in the machine learning model, which is trained to understand the nonlinear relationships between different health-related features and their corresponding insurance premiums. Various regression algorithms and ensemble techniques may be explored to optimize predictive accuracy.
 
 📈 Evaluation Metrics
+
 The model's performance is evaluated using standard regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared. These metrics provide valuable insights into how well the model generalizes to unseen data and its ability to predict insurance premiums.
 
+
 🌐 How to Use
+
 Clone the repository:
 
 bash
